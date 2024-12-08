@@ -1,0 +1,9 @@
+What people don't know is that Adam is actually a vampire, 
+hiding among humans with great wealth.
+One night, after staying late at the school library, Jenny accidentally falls down the stairs
+Adam, do you want to save her? (yes/no)
+
+---
+
+yes: Save or not_Yes_3.txt  
+no: Save or not_No_4.txt

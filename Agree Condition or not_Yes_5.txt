@@ -1,0 +1,14 @@
+Condition 1: Give up your chance at immortality and become an ordinary human.
+
+Condition 2: Sever all ties with your family.
+
+Condition 3: Become a vegetarian from now on.
+
+Please answer 1,2 or 3:
+
+---
+
+1: Agree Condition or not_Yes_5_01.txt
+2: Agree Condition or not_Yes_5_02.txt
+3: Agree Condition or not_Yes_5_03.txt
+othrer: Agree Condition or not_Yes_5_other.txt

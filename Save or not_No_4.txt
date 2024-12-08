@@ -1,0 +1,8 @@
+Jenny felt that this person was very selfish and even grew to resent him. 
+From that point on, the two had no further interactions.
+Adam, do you want to change her perception of you and pursue her? (yes/no)
+
+---
+
+yes: Save or not_No-4_01.txt
+no: Save or not_No-4_02.txt

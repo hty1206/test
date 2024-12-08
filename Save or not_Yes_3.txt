@@ -1,0 +1,12 @@
+She is surprised by the gentle side of him beneath his cold and distant exterior. 
+The two begin to interact more, and Adam is intrigued by her kindness and resilience, while Jenny finds herself drawn to his mystery.
+
+
+However, Jenny's father is a very traditional man who could never accept the existence of a "non-human" being. The financial pressures on her family also make it hard for Jenny to pursue her own happiness.
+
+Father: "Adam, if you want to pursue my daughter, are you willing to agree to one of three conditions?" (yes/no)
+
+---
+
+yes: Agree Condition or not_Yes_5.txt
+no: Agree Condition or not_Yes_6.txt

@@ -1,0 +1,10 @@
+(I will give up your chance at immortality and become an ordinary human.)
+Father: Very well, you've earned the chance to propose to my daughter.
+Adam, thrilled, prepares a "??" layers diamond ring, ready to propose...
+How many layers you want the diamond to be?(At least 4 layers)
+
+---
+
+<4: dimond(<4).txt
+>=7: dimond(>=7).txt
+4-6: dimond(4-6).txt
